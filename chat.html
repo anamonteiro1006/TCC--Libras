@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fórum Libras</title>
+    <link rel="stylesheet" href="chat.css">
+</head>
+<body>
+    <!-- Cabeçalho -->
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <img src="imagens/Logo2.png" alt="Logo do site" class="logo-img">
+                <div class="logo-text">
+                    <h1>SENAI LIBRAS</h1>
+                    <p>Facilitando a Comunicação e Inclusão</p>
+                </div>
+            </div>
+            <nav class="navbar">
+                <ul>
+                    <li><a href="index.html">Início</a></li>
+                    <li><a href="sobrenos.html">Sobre Nós</a></li>
+                    <li><a href="contato.html">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <!--Fim cabeçalho-->
+
+    <main>
+        <h1 class="tituloForum">Fórum Libras</h1>
+
+        <!-- Formulário para enviar uma nova mensagem -->
+        <form id="formularioMensagem">
+            <label for="usuario">Usuário:</label>
+            <input type="text" id="usuario" name="usuario" required>
+
+            <label for="mensagem">Mensagem:</label>
+            <textarea id="mensagem" name="mensagem" rows="4" required></textarea>
+    
+            <button type="submit">Enviar Mensagem</button>
+        </form>
+
+        <!-- Área onde as mensagens são exibidas -->
+        <div class="quadro-de-mensagens" id="quadroDeMensagens">
+            <!-- As mensagens e respostas aparecerão aqui -->
+        </div>
+    </main>
+
+    <!-- rodape cmc -->
+    <footer>
+        <p><img src="imagens/logo-senai.fw_.png" alt="Logo do SENAI"></p>
+    </footer>
+        <!-- rodape fim -->
+    
+    <script src="chat.js"></script>
+</body>
+</html>

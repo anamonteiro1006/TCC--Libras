@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Regras do Quiz sobre LIBRAS</title>
+    <link rel="stylesheet" href="quiz.css">
+</head>
+<body>
+    <!--Cabeçalho-->
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <img src="imagens/Logo2.png" alt="Logo do site" class="logo-img">
+                <div class="logo-text">
+                    <h1>SENAI LIBRAS</h1>
+                    <p>Facilitando a Comunicação e Inclusão</p>
+                </div>
+            </div>
+            <nav class="navbar">
+                <ul>
+                    <li><a href="index.html">Início</a></li>
+                    <li><a href="sobrenos.html">Sobre Nós</a></li>
+                    <li><a href="contato.html">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <!--Fim do cabeçalho-->
+
+    
+    <br><br>
+    <div class="intro-container">
+        <h1>REGRAS QUIZ SENAI</h1>
+        <img src="imagens/quizlibras.png" alt="LIBRAS" class="intro-image">
+        <h2>Bem-vindo ao Quiz!</h2>
+        <p>Teste seus conhecimentos sobre LIBRAS (Língua Brasileira de Sinais) com este quiz divertido e educativo!</p>
+        <h3>Regras:</h3>
+        <ul>
+            <li>O quiz contém 20 perguntas divididas em 4 níveis de dificuldade.</li>
+            <li>Você precisa acertar 5 perguntas para avançar para o próximo nível.</li>
+            <li>Se você errar menos de 5 perguntas, poderá tentar novamente.</li>
+            <li>O quiz termina quando você completa todos os níveis ou se decide parar.</li>
+            <br><br>
+        </ul>
+        <!-- Botão para iniciar o quiz, agora com a função de redirecionamento -->
+        <button id="startButton">Iniciar Quiz</button>
+        <br><br>
+    </div>
+    <footer>
+      <p><img src="imagens/logo-senai.fw_.png" alt="Logo do SENAI"></p>
+    </footer>
+
+    <script>
+        // Redirecionamento para a próxima página do quiz
+        document.getElementById("startButton").addEventListener("click", function() {
+            window.location.href = "quiz.html";  // Mude 'quiz.html' para a página que você deseja redirecionar
+        });
+    </script>
+</body>
+</html>

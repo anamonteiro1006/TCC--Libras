@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz sobre LIBRAS</title>
+    <link rel="stylesheet" href="quiz.css">
+</head>
+<body>
+    <!-- Cabeçalho -->
+    <header class="header">
+        
+        <div class="container">
+            <div class="logo">
+                <img src="imagens/Logo2.png" alt="Logo do site" class="logo-img">
+                <div class="logo-text">
+                    <h1>SENAI LIBRAS</h1>
+                    <p>Facilitando a Comunicação e Inclusão</p>
+                </div>
+                
+            </div>
+            <nav class="navbar">
+                <ul>
+                    <li><a href="index.html">Início</a></li>
+                    <li><a href="sobrenos.html">Sobre Nós</a></li>
+                    <li><a href="contato.html">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+        
+    </header>
+    <!-- Fim do Cabeçalho -->
+
+    
+    <!-- Quiz Container -->
+    <div class="quiz-container">
+        <h1>Quiz sobre LIBRAS</h1>
+        <br><br>
+        <div id="levelDisplay" class="level">Nível: 1</div>
+        <div id="quiz"></div>
+        <button id="nextButton" class="hidden">Próximo Nível</button>
+        <button id="restartButton" class="hidden">Tentar Novamente</button>
+    </div>
+    
+    <!-- Botão para voltar às regras -->
+    <button class="botaoJogar" onclick="window.location.href='regras.html'">Voltar às Regras</button>
+
+    <!-- Rodapé -->
+    <footer>
+        <p><img src="imagens/logo-senai.fw_.png" alt="Logo do SENAI"></p>
+    </footer>
+    <!-- Fim do Rodapé -->
+    
+    <!-- Script para o Quiz -->
+    <script src="quiz.js"></script>
+
+    <!-- Adicionando o Widget do VLibras -->
+    <div vw class="enabled">
+        <div vw-access-button class="active"></div>
+        <div vw-plugin-wrapper>
+            <div class="vw-plugin-top-wrapper"></div>
+        </div>
+    </div>
+    
+    <!-- Script do VLibras -->
+    <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+    <script>
+        new window.VLibras.Widget();
+    </script>
+</body>
+</html>

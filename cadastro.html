@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Página Inicial</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" type="imagex/png" href="imagens/Logo2.png">
+</head>
+<body>
+  <!-- Cabeçalho -->
+  <header class="header">
+    <div class="container">
+        <div class="logo">
+            <img src="imagens/Logo2.png" alt="Logo do site" class="logo-img">
+            <div class="logo-text">
+                <h1>SENAI LIBRAS</h1>
+                <p>Facilitando a Comunicação e Inclusão</p>
+            </div>
+        </div>
+        <nav class="navbar">
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="sobrenos.html">Sobre Nós</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<!-- Fim do Cabeçalho -->
+
+    <!-- Imagem -->
+    <img src="imagens/Logo1.png" alt="Logo SENAI" class="img-fluid">
+    <!-- Fim da Imagem -->
+
+    
+    <main>
+        <div class="container">
+            <h1>Cadastre-se</h1>
+            <form action="">
+                <label>Nome:</label>
+                <br />
+                <input type="text" id="nome" />
+                <br />
+                <label>Idade:</label>
+                <br />
+                <input type="number" id="idade" />
+                <br />
+                <label for="">E-mail:</label> <br />
+                <input type="email" id="email" />
+                <br />
+                <label for="">Senha:</label> <br />
+                <input type="password" id="senha" />
+                <br />
+                <label for="">Confirmar senha:</label> <br />
+                <input type="password" id="confsenha" />
+                <br />
+                <button  id="btn" type="button" onclick="enviarCadastro()"> Enviar</button>
+              </form>
+        </div> 
+
+     <!-- rodape cmc -->
+     <footer>
+        <p><img src="imagens/logo-senai.fw_.png" alt="Logo do SENAI"></p>
+    </footer>
+    <!-- rodape fim -->
+
+    <script src="script.js"></script>
+</body>
+</html>

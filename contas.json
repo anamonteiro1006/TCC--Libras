@@ -1,0 +1,359 @@
+{
+  "admin": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "senha": "1122"
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": "1",
+      "nome": "Abraão",
+      "cargo": "",
+      "image": "<img src='img/Abraão.jpg' width='100px' class='clickable' data-video='videos/Abraão.mp4'>"
+    },
+    {
+      "id": "2",
+      "nome": "Adilson",
+      "cargo": "",
+      "image": "<img src='img/Adilson.png' width='100px' class='clickable' data-video='videos/Adilson.mp4'>"
+    },
+    {
+      "id": "3",
+      "nome": "Aleandra",
+      "cargo": "",
+      "image": "<img src='img/Aleandra.png' width='100px' class='clickable' data-video='videos/Aleandra.mp4'>"
+    },
+    {
+      "id": "4",
+      "nome": "Alexandre",
+      "cargo": "",
+      "image": "<img src='img/Alexandre.png' width='100px' class='clickable' data-video='videos/Alexandre.mp4'>"
+    },
+    {
+      "id": "5",
+      "nome": "Ana Carolina",
+      "cargo": "",
+      "image": "<img src='img/AnaCarolina.png' width='100px' class='clickable' data-video='videos/AnaCarolina.mp4'>"
+    },
+    {
+      "id": "6",
+      "nome": "Ana Raquel",
+      "cargo": "",
+      "image": "<img src='img/AnaRaquel.jpg' width='100px' class='clickable' data-video='videos/AnaRaquel.mp4'>"
+    },
+    {
+      "id": "7",
+      "nome": "Anderson",
+      "cargo": "",
+      "image": "<img src='img/Anderson.jpg' width='100px' class='clickable' data-video='videos/Anderson.mp4'>"
+    },
+    {
+      "id": "8",
+      "nome": "Brandon",
+      "cargo": "",
+      "image": "<img src='img/Brandon.png' width='100px' class='clickable' data-video='videos/Brandon.mp4'>"
+    },
+    {
+      "id": "9",
+      "nome": "Bruno Messias",
+      "cargo": "",
+      "image": "<img src='img/Bruno.jpg' width='100px' class='clickable' data-video='videos/Bruno.mp4'>"
+    },
+    {
+      "id": "10",
+      "nome": "Carlinhos",
+      "cargo": "",
+      "image": "<img src='img/carlinhos.png' width='100px' class='clickable' data-video='videos/carlinhos.mp4'>"
+    },
+    {
+      "id": "11",
+      "nome": "Cátia",
+      "cargo": "",
+      "image": "<img src='img/Cátia.jpg' width='100px' class='clickable' data-video='videos/Cátia.mp4'>"
+    },
+    {
+      "id": "12",
+      "nome": "Ciro",
+      "cargo": "",
+      "image": "<img src='img/Ciro.png' width='100px' class='clickable' data-video='videos/Ciro.mp4'>"
+    },
+    {
+      "id": "13",
+      "nome": "Cleide",
+      "cargo": "",
+      "image": "<img src='img/Cleide.png' width='100px' class='clickable' data-video='videos/Cleide.mp4'>"
+    },
+    {
+      "id": "14",
+      "nome": "Daniel",
+      "cargo": "",
+      "image": "<img src='img/Danielv.png' width='100px' class='clickable' data-video='videos/Danielv.mp4'>"
+    },
+    {
+      "id": "15",
+      "nome": "Diego",
+      "cargo": "",
+      "image": "<img src='img/Diego.png' width='100px' class='clickable' data-video='videos/Diego.mp4'>"
+    },
+    {
+      "id": "16",
+      "nome": "Edileuza",
+      "cargo": "",
+      "image": "<img src='img/Edileuza.jpg' width='100px' class='clickable' data-video='videos/Edileuza.mp4'>"
+    },
+    {
+      "id": "17",
+      "nome": "Edilson",
+      "cargo": "",
+      "image": "<img src='img/Edilson Rosa.png' width='100px' class='clickable' data-video='videos/EdilsonRosa.mp4'>"
+    },
+    {
+      "id": "18",
+      "nome": "Edna",
+      "cargo": "",
+      "image": "<img src='img/Edna.jpg' width='100px' class='clickable' data-video='videos/Edna.mp4'>"
+    },
+    {
+      "id": "19",
+      "nome": "Edson",
+      "cargo": "",
+      "image": "<img src='img/Edson.jpg' width='100px' class='clickable' data-video='videos/Edson.mp4'>"
+    },
+    {
+      "id": "20",
+      "nome": "Elnir",
+      "cargo": "",
+      "image": "<img src='img/Elnir.png' width='100px' class='clickable' data-video='videos/Elnir.mp4'>"
+    },
+    {
+      "id": "21",
+      "nome": "Fabricio",
+      "cargo": "",
+      "image": "<img src='img/fabricio.png' width='100px' class='clickable' data-video='videos/fabricio.mp4'>"
+    },
+    {
+      "id": "22",
+      "nome": "Faustino",
+      "cargo": "",
+      "image": "<img src='img/Faustino.jpg' width='100px' class='clickable' data-video='videos/Faustino.mp4'>"
+    },
+    {
+      "id": "23",
+      "nome": "Felipe",
+      "cargo": "",
+      "image": "<img src='img/Felipe.png' width='100px' class='clickable' data-video='videos/Felipe.mp4'>"
+    },
+    {
+      "id": "24",
+      "nome": "Flávio",
+      "cargo": "",
+      "image": "<img src='img/flavio.png' width='100px' class='clickable' data-video='videos/flavio.mp4'>"
+    },
+    {
+      "id": "25",
+      "nome": "Francisco",
+      "cargo": "",
+      "image": "<img src='img/franciscoquico.jpg' width='100px' class='clickable' data-video='videos/franciscoquico.mp4'>"
+    },
+    {
+      "id": "26",
+      "nome": "George",
+      "cargo": "",
+      "image": "<img src='img/George.jpg' width='100px' class='clickable' data-video='videos/George.mp4'>"
+    },
+    {
+      "id": "27",
+      "nome": "Ilso",
+      "cargo": "",
+      "image": "<img src='img/Ilso.png' width='100px' class='clickable' data-video='videos/Ilso.mp4'>"
+    },
+    {
+      "id": "28",
+      "nome": "Ismael",
+      "cargo": "",
+      "image": "<img src='img/Ismael.png' width='100px' class='clickable' data-video='videos/ismael.mp4'>"
+    },
+    {
+      "id": "29",
+      "nome": "João",
+      "cargo": "",
+      "image": "<img src='img/JoãoPereira.png' width='100px' class='clickable' data-video='videos/JoãoPereira.mp4'>"
+    },
+    {
+      "id": "30",
+      "nome": "John K.",
+      "cargo": "",
+      "image": "<img src='img/JohnKennedy.png' width='100px' class='clickable' data-video='videos/JohnKennedy.mp4'>"
+    },
+    {
+      "id": "31",
+      "nome": "José E.",
+      "cargo": "",
+      "image": "<img src='img/JoseEdson.png' width='100px' class='clickable' data-video='videos/JoséEdson.mp4'>"
+    },
+    {
+      "id": "32",
+      "nome": "José R.",
+      "cargo": "",
+      "image": "<img src='img/JoséRoberto.png' width='100px' class='clickable' data-video='videos/JoséRoberto.mp4'>"
+    },
+    {
+      "id": "33",
+      "nome": "Kleber",
+      "cargo": "",
+      "image": "<img src='img/kleber.jpg' width='100px' class='clickable' data-video='videos/kleber.mp4'>"
+    },
+    {
+      "id": "34",
+      "nome": "Lazaro",
+      "cargo": "",
+      "image": "<img src='img/Lazaro.jpg' width='100px' class='clickable' data-video='videos/Lazaro.mp4'>"
+    },
+    {
+      "id": "35",
+      "nome": "Lucas",
+      "cargo": "",
+      "image": "<img src='img/Lucas.jpg' width='100px' class='clickable' data-video='videos/Lucas.mp4'>"
+    },
+    {
+      "id": "36",
+      "nome": "Matheus",
+      "cargo": "",
+      "image": "<img src='img/Matheus.jpg' width='100px' class='clickable' data-video='videos/Matheus.mp4'>"
+    },
+    {
+      "id": "37",
+      "nome": "Natalia",
+      "cargo": "",
+      "image": "<img src='img/Natalia.png' width='100px' class='clickable' data-video='videos/Natalia.mp4'>"
+    },
+    {
+      "id": "38",
+      "nome": "Nilo",
+      "cargo": "",
+      "image": "<img src='img/Nilo.jpg' width='100px' class='clickable' data-video='videos/Nilo.mp4'>"
+    },
+    {
+      "id": "39",
+      "nome": "Osnir",
+      "cargo": "",
+      "image": "<img src='img/Osnir.png' width='100px' class='clickable' data-video='videos/Osnir.mp4'>"
+    },
+    {
+      "id": "40",
+      "nome": "Pátricia",
+      "cargo": "",
+      "image": "<img src='img/Pátricia.png' width='100px' class='clickable' data-video='videos/Patricia.mp4'>"
+    },
+    {
+      "id": "41",
+      "nome": "Paulinho",
+      "cargo": "",
+      "image": "<img src='img/Paulinho.jpg' width='100px' class='clickable' data-video='videos/Paulinho.mp4'>"
+    },
+    {
+      "id": "42",
+      "nome": "Pedro",
+      "cargo": "",
+      "image": "<img src='img/Pedro.jpg' width='100px' class='clickable' data-video='videos/Pedro.mp4'>"
+    },
+    {
+      "id": "43",
+      "nome": "Rafael",
+      "cargo": "",
+      "image": "<img src='img/rafael.jpg' width='100px' class='clickable' data-video='videos/rafael.mp4'>"
+    },
+    {
+      "id": "44",
+      "nome": "Renato",
+      "cargo": "",
+      "image": "<img src='img/Renato.jpg' width='100px' class='clickable' data-video='videos/Renato.mp4'>"
+    },
+    {
+      "id": "45",
+      "nome": "Silas B.",
+      "cargo": "",
+      "image": "<img src='img/Silas.jpg' width='100px' class='clickable' data-video='videos/Silas.mp4'>"
+    },
+    {
+      "id": "46",
+      "nome": "Severino",
+      "cargo": "",
+      "image": "<img src='img/silvio.jpg' width='100px' class='clickable' data-video='videos/severino.mp4'>"
+    },
+    {
+      "id": "47",
+      "nome": "Tatiane",
+      "cargo": "",
+      "image": "<img src='img/tatiane.jpg' width='100px' class='clickable' data-video='videos/tatiane.mp4'>"
+    },
+    {
+      "id": "48",
+      "nome": "Tuany",
+      "cargo": "",
+      "image": "<img src='img/tuany.jpg' width='100px' class='clickable' data-video='videos/tuany.mp4'>"
+    },
+    {
+      "id": "49",
+      "nome": "Tuany Sec.",
+      "cargo": "",
+      "image": "<img src='img/Tuany.png' width='100px' class='clickable' data-video='videos/TuanyC.mp4'>"
+    },
+    {
+      "id": "50",
+      "nome": "Valter",
+      "cargo": "",
+      "image": "<img src='img/Valter.png' width='100px' class='clickable' data-video='videos/Valter.mp4'>"
+    },
+    {
+      "id": "51",
+      "nome": "Vicente",
+      "cargo": "",
+      "image": "<img src='img/Vicente.png' width='100px' class='clickable' data-video='videos/Vicente.mp4'>"
+    },
+    {
+      "id": "52",
+      "nome": "Wagner ",
+      "cargo": "",
+      "image": "<img src='img/wagner.png' width='100px' class='clickable' data-video='videos/wagner.mp4'>"
+    },
+    {
+      "id": "53",
+      "nome": "Willian A.",
+      "cargo": "",
+      "image": "<img src='img/WillianAlberto.png' width='100px' class='clickable' data-video='videos/WillianAlberto.mp4'>"
+    },
+    {
+      "id": "54",
+      "nome": "Willian Diretor",
+      "cargo": "",
+      "image": "<img src='img/Williandiógenes.png' width='100px' class='clickable' data-video='videos/Williandiógenes.mp4'>"
+    }
+  ],
+  "mensagens": [
+    {
+      "id": "1",
+      "usuario": "Maria",
+      "mensagem": "Como posso aprender mais sobre Libras?",
+      "respostas": [
+        "Para aprender Libras, você pode fazer cursos online e presenciais, usar aplicativos e assistir a vídeos educativos. Participar de encontros com a comunidade surda e praticar com intérpretes também é essencial para a fluência.",
+        "maria voce pode nos enviar suas duvidas para consultarmos e ensinarmos a voce\n",
+        "Ola maria como podemos ajudar ?\n"
+      ]
+    },
+    {
+      "id": "fb28",
+      "usuario": "julio",
+      "mensagem": "oi\n",
+      "respostas": []
+    },
+    {
+      "id": "8420",
+      "usuario": "Julio Quintero",
+      "mensagem": "Como se diz Muito obrigado em Libras?",
+      "respostas": []
+    }
+  ]
+}
